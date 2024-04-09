@@ -14,7 +14,7 @@ export default function Home() {
 
       <header>
         <a href="#">
-          <img src="no bg.png" alt="logo" className="logo" />
+          <img src="logo.png" alt="logo" className="logo" />
         </a>
 
         <input type="checkbox" id="check" />
